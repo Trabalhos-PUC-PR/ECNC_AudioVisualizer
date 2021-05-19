@@ -15,3 +15,5 @@ Resumindo, para utilizar esse visualizer, você precisará instalar essas duas b
 Cada reprodução de música reproduzira um resultado potencialmente diferente, pois o detector de batidas dentro do programa pode, ou não, detectar certas batidas na música.
 
 Para trocar a música, substitua o arquivo `04-pursuit.wav` por outro de mesmo nome (e de mesma extensão também).
+
+[Versão final do projeto](https://github.com/LeonardoLuize/AudioVisualizerFinal)
